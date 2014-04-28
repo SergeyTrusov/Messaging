@@ -1,0 +1,10 @@
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\Shared\bin\Debug\Shared.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\Shared\bin\Debug\Shared.pdb
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\Shared\bin\Debug\AutoMapper.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\Shared\bin\Debug\AutoMapper.Net4.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\Shared\bin\Debug\Ninject.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\Shared\bin\Debug\AutoMapper.xml
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\Shared\bin\Debug\Ninject.xml
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\Shared\obj\Debug\Shared.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\Shared\obj\Debug\Shared.pdb

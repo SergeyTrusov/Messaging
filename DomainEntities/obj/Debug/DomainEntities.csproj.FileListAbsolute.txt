@@ -1,0 +1,13 @@
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\bin\Debug\DomainEntities.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\bin\Debug\DomainEntities.pdb
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\bin\Debug\EntityFramework.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\bin\Debug\EntityFramework.xml
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\obj\Debug\DomainEntities.csprojResolveAssemblyReference.cache
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\obj\Debug\DomainEntities.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\DomainEntities\obj\Debug\DomainEntities.pdb

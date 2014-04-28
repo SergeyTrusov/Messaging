@@ -1,0 +1,4 @@
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\SharedStrings\bin\Debug\SharedStrings.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\SharedStrings\bin\Debug\SharedStrings.pdb
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\SharedStrings\obj\Debug\SharedStrings.dll
+C:\Projects\TFS\Messaging\Dev\Project\Messaging\SharedStrings\obj\Debug\SharedStrings.pdb
